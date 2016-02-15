@@ -200,6 +200,11 @@ footer p {
    display: inline-block;
 }
 
+.game-image {
+   width: 224px;
+   padding-left: 14px;
+}
+
 /*.carousel .item img {
    max-height: 768px;
    min-width: auto;
