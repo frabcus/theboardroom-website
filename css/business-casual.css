@@ -190,3 +190,18 @@ footer p {
         clear: both;
     }
 }
+
+/* The Board Room sepecific modifications */
+
+.payment {
+   text-align: center;
+}
+.payment form {
+   display: inline-block;
+}
+
+/*.carousel .item img {
+   max-height: 768px;
+   min-width: auto;
+}*/
+
